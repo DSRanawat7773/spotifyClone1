@@ -11,16 +11,16 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let masterSongName = document.getElementById('masterSongName');
 
 let songs = [
-    {songName : "Ghoomer", filePath: "songs/1.mp3", coverpath: "covers/1.jpg"},
-    {songName : "Gorband", filePath: "songs/2.mp3", coverpath: "covers/2.jpg"},
-    {songName : "Ghoomer3", filePath: "songs/3.mp3", coverpath: "covers/3.jpg"},
-    {songName : "Ghoomer4", filePath: "songs/4.mp3", coverpath: "covers/4.jpg"},
-    {songName : "Ghoomer5", filePath: "songs/5.mp3", coverpath: "covers/5.jpg"},
-    {songName : "Ghoomer6", filePath: "songs/6.mp3", coverpath: "covers/6.jpg"},
-    {songName : "Ghoomer7", filePath: "songs/7.mp3", coverpath: "covers/7.jpg"},
-    {songName : "Ghoomer8", filePath: "songs/8.mp3", coverpath: "covers/8.jpg"},
-    {songName : "Ghoomer9", filePath: "songs/9.mp3", coverpath: "covers/9.jpg"},
-    {songName : "Ghoomer10", filePath: "songs/10.mp3", coverpath: "covers/10.jpg"},
+    {songName : "All Around Me - ft.Justin Bieber", filePath: "songs/1.mp3", coverpath: "covers/1.jpg"},
+    {songName : "Intentions - ft.Justin Bieber", filePath: "songs/2.mp3", coverpath: "covers/2.jpg"},
+    {songName : "Yummy", filePath: "songs/3.mp3", coverpath: "covers/3.jpg"},
+    {songName : "My Eyes - ft.Travis Scott", filePath: "songs/4.mp3", coverpath: "covers/4.jpg"},
+    {songName : "Levels - ft.AVICII", filePath: "songs/5.mp3", coverpath: "covers/5.jpg"},
+    {songName : "Here - ft.Alessia Cara", filePath: "songs/6.mp3", coverpath: "covers/6.jpg"},
+    {songName : "GooseBumps - ft.Travis Scott", filePath: "songs/7.mp3", coverpath: "covers/7.jpg"},
+    {songName : "THE SCOTTS - ft.Travis Scott", filePath: "songs/8.mp3", coverpath: "covers/8.jpg"},
+    {songName : "The Nights - ft.AVICII", filePath: "songs/9.mp3", coverpath: "covers/9.jpg"},
+    {songName : "Stay - ft.Alessia Cara", filePath: "songs/10.mp3", coverpath: "covers/10.jpg"},
 ]
 
 
